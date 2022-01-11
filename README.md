@@ -24,3 +24,8 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 3. If you want to try the material in a web browser, i.e., to test the code or make small changes and run the code, you can access this repository at the interactive platform Binder by clicking the link: https://mybinder.org/v2/gh/raghurama123/DataScience/HEAD
 
 _If you also Fork the material, then replace 'raghurama123' in the above line with your 'username'_
+
+## Contact
+For comments, questions, suggestions or requests please write to ramakrishnan@tifrh.res.in 
+
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/raghurama123.svg?style=social&label=%20%40raghurama123)](https://twitter.com/raghurama123)
