@@ -30,7 +30,7 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 2. Introducing Data Science, Davy Cielen, Arno D. B. Meysman, Mohamed Ali, Manning (2016).      
 
 ## _Additional references:_   
-1. There are some nice datasets to play with at [https://data.gov.in/](https://data.gov.in/)
+1. There are some nice datasets to play with at [https://data.gov.in/](https://data.gov.in/), [https://www.indiastat.com/](https://www.indiastat.com/)
 
 ## Contact
 For comments, questions, suggestions or requests please write to ramakrishnan@tifrh.res.in 
