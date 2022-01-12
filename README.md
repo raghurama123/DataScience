@@ -29,7 +29,8 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 1. Introduction to Data Science. A Python Approach to Concepts, Techniques and Applications, Laura Igual, Santi Segu, Springer (2017).
 2. Introducing Data Science, Davy Cielen, Arno D. B. Meysman, Mohamed Ali, Manning (2016).      
 
-## _Additional reading:_   
+## _Additional references:_   
+1. There are some nice datasets to play with at [https://data.gov.in/](https://data.gov.in/)
 
 ## Contact
 For comments, questions, suggestions or requests please write to ramakrishnan@tifrh.res.in 
