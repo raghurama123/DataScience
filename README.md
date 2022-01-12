@@ -25,6 +25,12 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 
 _If you also Fork the material, then replace 'raghurama123' in the above line with your 'username'_
 
+## _References:_     
+1. Introduction to Data Science. A Python Approach to Concepts, Techniques and Applications, Laura Igual, Santi Segu, Springer (2017).
+2. Introducing Data Science, Davy Cielen, Arno D. B. Meysman, Mohamed Ali, Manning (2016).      
+
+## _Additional reading:_   
+
 ## Contact
 For comments, questions, suggestions or requests please write to ramakrishnan@tifrh.res.in 
 
