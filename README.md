@@ -25,6 +25,18 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 
 _If you also Fork the material, then replace 'raghurama123' in the above line with your 'username'_
 
+## _Syllabus:_ 
+The syllabus of this course is evolving over time. The original plan was to cover the following topics
+
+1. Data Science: Big Data, Facets of data (structured/unstructured data)   
+2. Toolboxes: Python libraries, SCIKIT-Learn, PANDAS    
+3. Statistics: Distributions, Outlier, Skewness, Pearson’s/Spearman’s/Kendall’s coefficient, Kernel density    
+4. Statistical Inference: Hypothesis testing, Confidence Intervals    
+5. Supervised Machine Learning: What is machine learning? Learning curves, Support Vector Machines, Random Forest    
+6. Regression: Linear Regression, Logistic Regression      
+7. Unsupervised Machine Learning: Clustering, Case studies    
+8. Big Data concepts: Handling large data, Hadoop, Spark, NoSQL, Graph databases, Natural language processing, MapReduce    
+
 ## _References:_     
 1. Introduction to Data Science. A Python Approach to Concepts, Techniques and Applications, Laura Igual, Santi Segu, Springer (2017).
 2. Introducing Data Science, Davy Cielen, Arno D. B. Meysman, Mohamed Ali, Manning (2016).      
