@@ -25,7 +25,7 @@ _If you also Fork the material, then replace 'raghurama123' in the above line wi
 
 _If you also Fork the material, then replace 'raghurama123' in the above line with your 'username'_
 
-## _Syllabus:_ 
+## Syllabus: 
 The syllabus of this course is evolving over time. The original plan was to cover the following topics
 
 1. Data Science: Big Data, Facets of data (structured/unstructured data)   
@@ -37,11 +37,11 @@ The syllabus of this course is evolving over time. The original plan was to cove
 7. Unsupervised Machine Learning: Clustering, Case studies    
 8. Big Data concepts: Handling large data, Hadoop, Spark, NoSQL, Graph databases, Natural language processing, MapReduce    
 
-## _References:_     
+## References:     
 1. Introduction to Data Science. A Python Approach to Concepts, Techniques and Applications, Laura Igual, Santi Segu, Springer (2017).
 2. Introducing Data Science, Davy Cielen, Arno D. B. Meysman, Mohamed Ali, Manning (2016).      
-
-## _Data sources:_   
+ 
+## Data sources:    
 1. [https://www.kaggle.com/](https://www.kaggle.com/)
 
 ## Contact
