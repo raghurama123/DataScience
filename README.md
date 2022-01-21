@@ -40,6 +40,9 @@ The syllabus of this course is evolving over time. The original plan was to cove
 ## References:     
 1. Introduction to Data Science. A Python Approach to Concepts, Techniques and Applications, Laura Igual, Santi Segu, Springer (2017).
 2. Introducing Data Science, Davy Cielen, Arno D. B. Meysman, Mohamed Ali, Manning (2016).      
+
+## Additional reading:    
+1. [10 minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html#)   
  
 ## Data sources:    
 1. [https://www.kaggle.com/](https://www.kaggle.com/)
