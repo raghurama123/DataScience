@@ -5,7 +5,7 @@
 
 This repository contains Jupyter notebooks, images, PDFs, etc. prepared for the course _Introduction to Data Science_ offered for Ph. D. students at TIFR Hyderabad (https://moldis-group.github.io/teaching.html)
 
-<img src="images/iris.png"  height="150" position="center">
+<img src="images/iris.png"  height="150" class="center">
 
 ## How to access this material?
 
