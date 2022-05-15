@@ -1,3 +1,3 @@
-1) Data Set 1 Faces: https://tinyurl.com/HrideyFaceData
-2) Data Set 2 Vehicles: https://tinyurl.com/ArdraVehicleData
-3) Data Set 3 Animals: https://tinyurl.com/PadmanabhaAnimalData
+As a part of this course, the students of the 2022 batch explored image recognition by applying a support vector model based on three different kernels. Each of the three students collected images famous personalities, vehicles and animals. This folder contains the jupiter notebooks and the raw images used.
+
+
